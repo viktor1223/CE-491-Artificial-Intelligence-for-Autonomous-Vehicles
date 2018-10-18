@@ -1,2 +1,8 @@
 # CE-491-Artificial-Intelligence-for-Autonomous-Vehicles
-CE 491 Artificial Intelligence for Autonomous Vehicles: used to store final code each file will contain a report on the accuracy as well as the initially provided code and directions for those who wish to learn for themselves.                                                           
+>This repository holds my solutions to all labs, practice problems, and in class examples from [Kettering Universities](https://www.kettering.edu/) Computer Engineering Special Topics course taught by [Dr. Jungme Park](https://works.bepress.com/jungme-park/) Summer 2018.
+
+<li>[Linear Regression]()</li>
+<li>[Logistic Regression]()</li>
+<li>[]()</li>
+<li>[]()</li>
+<li>[]()</li>
