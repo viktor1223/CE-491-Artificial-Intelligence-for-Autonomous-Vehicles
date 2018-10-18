@@ -1,4 +1,4 @@
-*<center>![Kettering University](https://github.com/viktor1223/CE-491-Artificial-Intelligence-for-Autonomous-Vehicles/blob/master/KetteringSeal.png?raw=true)</center>*
+![Kettering University](https://github.com/viktor1223/CE-491-Artificial-Intelligence-for-Autonomous-Vehicles/blob/master/KetteringSeal.png?raw=true)
 
 
 # CE-491-Artificial-Intelligence-for-Autonomous-Vehicles
